@@ -1,0 +1,46 @@
+.input {
+  width: 19em;
+  height: 2em;
+  border: 3px solid black;
+  border-radius: 8px;
+}
+
+.input_date {
+  position: relative;
+  top: 11em;
+  right: 29em;
+}
+.input_ {
+  position: relative;
+  top: 4em;
+  left: 5em;
+  margin-left: 1em;
+  float: left;
+}
+
+.form {
+  background-color: rgb(61, 99, 204);
+  width: 880px;
+  height: 20em;
+  margin: auto;
+  margin-top: 1em;
+  border-radius: 18px;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+.submit {
+  background-color: rgb(29, 29, 165);
+  color: aliceblue;
+
+  position: relative;
+  top: 13em;
+  left: 9em;
+  height: 5em;
+  width: 12em;
+  border: 0px;
+  border-radius: 9px;
+}
